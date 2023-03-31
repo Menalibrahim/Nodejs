@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node": "^19.8.1"
+  },
+  "name": "1-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
